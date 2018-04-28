@@ -1,0 +1,315 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% block title %}
+    <title>index</title>
+    {% endblock %}
+    <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <script src="/static/bootstrap/js/jquery-1.11.1.min.js"></script>
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+</head>
+    <style>
+
+        .page-header{
+            text-align:left;
+            height:100px;
+            margin-bottom:0px;
+        }
+
+        .nav{
+            width: 150px;
+            float:left;
+        }
+
+        .top{
+            width:100%;
+            height:71px;
+            background-color:#2f4056;
+        }
+        .top_li{
+            float:left;
+            margin-left:5px;
+            width:80px;
+        }
+        .li{
+            float:left;
+            margin-left:10px;
+
+        }
+        body{
+        background-color:lightgray;
+        }
+
+        .change_color{
+            background-color:#1ab394
+        }
+
+         {% block style %}
+         #text{
+            width:300px;
+            height:300px;
+            position:absolute;
+            left:250px;
+            top:200px;
+         }
+
+         {% endblock %}
+    </style>
+<body>
+    <div class="pagehead" style="height:150px; border-bottom:solid 1px 	#C0C0C0;">
+        <div class="top">
+            <h4 id="show_time" style="float:right; margin:0px 30px 0px; color:#FFFFFF; line-height:71px;"></h4>
+
+            <div class="login" style="float:right; font-size:25px;">
+                <ul style="list-style-type:none; line-height:71px;text-align: center;">
+                    <li class="top_li" id="username" style="color:#FFFFFF; width:100px; "></li>
+                    <li class="top_li" id="logout" style="color:#FFFFFF; width:100px; cursor:pointer">退出</li>
+                </ul>
+            </div>
+
+            <div class="unlogin" style="float:right; font-size:25px;">
+                <ul style="list-style-type:none; line-height:71px;text-align: center;">
+                    <li class="top_li"><a href="{% url 'login' %}" style="color:#FFFFFF; width:100px;">登陆</a></li>
+                    <li class="top_li"><a href="{% url 'login' %}" style="color:#FFFFFF; width:100px;">注册</a></li>
+                </ul>
+            </div>
+
+            <div class="left_li" style="float:right; margin-right:150px; width:666px;">
+                <ul style="list-style-type:none; line-height:71px;text-align: center; ">
+                    <li class="li" ><a href=""><img src="/static/img/index_logo.png" alt=""></a></li>
+
+                    <li class="li" id="daily_work" style="font-size:25px; color:#FFFFFF; margin-left:30px;">
+                        今日任务
+                        <h5 id="tip" style="width:100px;"></h5>
+                    </li>
+
+                    <!--<li class="li" style="font-size:25px; color:#FFFFFF;">-->
+                        <!--每日必做-->
+
+                    <!--</li>-->
+
+                </ul>
+            </div>
+        </div>
+        <h1 id="title" style="text-align: center; width:400px; margin:0 auto"><a href="{% url 'index' %}" target="_blank" style="text-decoration:none; color:black;">{% block head %}追灿 爬虫{% endblock %}</a></h1>
+
+    </div>
+
+    <div class="right_li" style="float:left; width:150px; height:596px; border-right: 1px solid #eee;">
+        <ul class="nav nav-pills nav-stacked">
+            <li role="presentation"  >
+                <a href="#">mmb_spider</a>
+                <ul class="mmb_menu" style="list-style-type:none; padding:0px;">
+                    <li style="height:25px;"><a href="#">1.循环爬取所有words</a></li>
+                    <li style="height:25px;"><a href="#">2.循环爬取指定models</a></li>
+                    <li style="height:25px;"><a href="#">3.循环words指定model</a></li>
+                    <li style="height:25px;"><a href="{% url 'mmb_model4' %}">4.单次爬取指定words</a></li>
+                    <li style="height:25px;"><a href="{% url 'mmb_model5' %}">5.单次爬取指定models</a></li>
+                </ul>
+            </li>
+            <li role="presentation" >
+                <a href="#">mj_spider</a>
+                <ul class="mj_menu" style="list-style-type:none; padding:0px;">
+                    <li style="height:25px;" ><a href="#">1.热销宝贝</a></li>
+                    <li style="height:25px;"><a href="#">2.行业趋势</a></li>
+                    <li style="height:25px;"><a href="#">3.热词采集</a></li>
+                </ul>
+            </li>
+            <li role="presentation" >
+                <a href="#">tb_spider</a>
+                <ul class="tb_menu" style="list-style-type:none; padding:0px;">
+                    <li style="height:25px;"><a href="#">1.定制淘宝sku</a></li>
+                    <li style="height:25px;"><a href="#">2.批量淘宝评价</a></li>
+                    <li style="height:25px;"><a href="#">3.定制淘宝评价</a></li>
+                </ul>
+            </li>
+            <li role="presentation" ><a href="#">360_spider</a></li>
+            <li role="presentation" ><a href="#">baidu_spider</a></li>
+        </ul>
+    </div>
+
+    {% block body %}
+
+    <div class="mmb" style="float:left;">
+        <h3 class="little_tilte" style="margin-left:160px;">mmb爬虫执行状态</h3>
+        <textarea name="text" style="width:250px;height:400px; margin-left:130px;"></textarea>
+    </div>
+    <div class="mj" style="float:left;">
+        <h3 class="little_tilte" style="margin-left:90px;">mj爬虫执行状态</h3>
+        <textarea name="text" style="width:250px;height:400px; margin-left:50px;"></textarea>
+    </div>
+    <div class="tb" style="float:left;">
+        <h3 class="little_tilte" style="margin-left:90px;">tb爬虫执行状态</h3>
+        <textarea name="text" style="width:250px;height:400px; margin-left:50px;"></textarea>
+    </div>
+
+    {% endblock %}
+
+</body>
+<script>
+
+        //这里代码多了几行，但是不会延迟显示，速度比较好，格式可以自定义，是理想的时间显示
+        setInterval("fun(show_time)",1);
+        function fun(timeID){
+            var date = new Date();  //创建对象
+            var y = date.getFullYear();     //获取年份
+            var m =date.getMonth()+1;   //获取月份  返回0-11
+            var d = date.getDate(); // 获取日
+            var w = date.getDay();   //获取星期几  返回0-6   (0=星期天)
+            var ww = ' 星期'+'日一二三四五六'.charAt(new Date().getDay()) ;//星期几
+            var h = date.getHours();  //时
+            var minute = date.getMinutes()  //分
+            var s = date.getSeconds(); //秒
+            var sss = date.getMilliseconds() ; //毫秒
+            var version = String(y) +String(m)+String(d)+String(h)+String(minute)+String(s)
+
+            <!--月份小于10加0-->
+            if(m<10){
+            m = "0"+m;
+            }
+
+            <!--天数小于10加0-->
+            if(d<10){
+            d = "0"+d;
+            }
+
+            <!--小时小于10加0-->
+            if(h<10){
+            h = "0"+h;
+            }
+
+            <!--分钟小于10加0-->
+            if(minute<10){
+            minute = "0"+minute;
+            }
+
+            <!--秒小于10加0-->
+            if(s<10){
+            s = "0"+s;
+            }
+
+            <!--毫秒小于10加0-->
+            if(sss<10){
+            sss = "00"+sss;
+            }else if(sss<100){
+            sss = "0"+sss;
+            }
+
+            document.getElementById('show_time').innerHTML =  y+"-"+m+"-"+d+"   "+h+":"+minute+":"+s+"  "+ww;
+            if(d == '03'){
+                document.getElementById('tip').innerHTML =  'mj热销宝贝pcid：4，5，6';
+            }
+            if(d == '04'){
+                document.getElementById('tip').innerHTML =  'mj热销宝贝pcid：7, 8, 9';
+            }
+            if(d == '05'){
+                document.getElementById('tip').innerHTML =  'mj热销宝贝pcid：2, 3, 10';
+            }
+            if(d == '06'){
+                document.getElementById('tip').innerHTML =  'mj热销宝贝pcid：0, 1, 11';
+            }
+            if(d == '07'){
+                document.getElementById('tip').innerHTML =  'mj热销宝贝pcid：13' +'<br>'+ '行业趋势pcid: 4，5，6，7，8，9';
+            }
+            if(d == '08'){
+                document.getElementById('tip').innerHTML =  '行业趋势pcid: 2, 3, 10, 0, 1, 11, 13';
+            }
+            if(d == '09'){
+                document.getElementById('tip').innerHTML =  '采集 mj 热词';
+            }
+            if(d == '10'){
+                document.getElementById('tip').innerHTML =  '数据质量验证';
+            }
+            if(d == '11'){
+                document.getElementById('tip').innerHTML =  '数据库去重，品牌清洗，数据迁移';
+            }
+        }
+
+
+
+        //删除cookie 函数
+        function delCookie(name){//为了删除指定名称的cookie，可以将其过期时间设定为一个过去的时间
+            var date = new Date();
+            date.setTime(date.getTime() - 10000000000);
+            document.cookie = name + "=a; expires=" + date.toGMTString()+"; path=/";
+        }
+        {% block js %}
+        {% endblock %}
+
+        $(function(){
+            var cookie = document.cookie;
+            //顶部显示登陆用户名
+            $('[role="presentation"] ul').hide();
+            $('#daily_work').children('h5').hide();
+
+            console.log(cookie)
+            if(cookie == ''){$('.login').hide()}
+            else{
+            $('.unlogin').hide();
+            $('#username').html(cookie.split('=')[1])}
+
+            // 退出登录
+            $('#logout').click(function(){
+                <!--console.log('退出登录')-->
+                delCookie(document.cookie);
+                <!--console.log(document.cookie)-->
+                location.reload();
+            });
+            //左侧菜单显示隐藏设置
+            $('.nav li').click(function(){
+
+                $(this).children('ul').toggle(300)
+            });
+
+            //左侧导航栏li标签鼠标悬浮变色时间
+            $('[role="presentation"]').hover(function(){
+
+                $(this).addClass('active')
+            },function() {
+                $(this).removeClass('active');
+            });
+            //登陆 未登录 里标签鼠标悬浮变色时间
+            $('.login ul li, .unlogin ul li, #daily_work').hover(function(){
+                $(this).children('h5').toggle(500);
+                $(this).addClass('change_color');
+                },
+                function(){
+                    $(this).removeClass('change_color');
+                    $(this).children('h5').toggle();
+            });
+
+
+
+
+            {% block jquery %}
+
+            //定义查询函数
+            var complete_str = ''
+            var i = 0
+            var sum = 0
+            var complete_list = []
+            function show_pro(vers,sum, table){
+                if((i!=sum)||(i==0)){
+                    $.get({% url 'show_pro' %}, {'version':vers, 'table':table}, function(res){
+                        var res_list = res.res_list
+                        i = res.i
+                        for (var j=0;j<res_list.length;j++)
+                        {
+                            if(($.inArray(res_list[j], complete_list))==-1)
+                            {
+                                complete_list.push(res_list[j]);
+                                console.log(complete_list);
+                                complete_str += res_list[j]+'\n'
+                            }
+                        }
+
+                    });
+                }
+            }
+            {% endblock %}
+        });
+
+</script>
+</html>

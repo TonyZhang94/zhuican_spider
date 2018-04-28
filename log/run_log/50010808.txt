@@ -1,0 +1,1856 @@
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180420203322赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180420203322赵石爱凤定mmb_db_operation.table_init
+20180420203322version 20180420203341: search_key=赵石爱凤定 is processing
+20180420203322dynamic price_duan
+20180420203322赵石爱凤定parse_search_key complete
+20180420203322version 20180420203341: search_key=赵石爱凤定 is completed
+20180420203322version 20180420203341: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180420203322无色限唇膏|||1255mmb_db_operation.table_check_init
+20180420203322无色限唇膏mmb_db_operation.table_init
+20180420203322version 20180420203341: search_key=无色限唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203341: search_key=无色限唇膏 page_num=1 insert success
+20180420203322version 20180420203341: search_key=无色限唇膏 page_num=2 insert success
+20180420203322version 20180420203341: search_key=无色限唇膏 page_num=3 insert success
+20180420203322无色限唇膏parse_search_key complete
+20180420203322version 20180420203341: search_key=无色限唇膏 is completed
+20180420203322version 20180420203341: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180420203322防裂唇膏|||1255mmb_db_operation.table_check_init
+20180420203322防裂唇膏mmb_db_operation.table_init
+20180420203322version 20180420203341: search_key=防裂唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203341: search_key=防裂唇膏 page_num=1 insert success
+20180420203322防裂唇膏parse_search_key complete
+20180420203322version 20180420203341: search_key=防裂唇膏 is completed
+20180420203322version 20180420203341: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180420203322赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180420203322赵石爱凤定mmb_db_operation.table_init
+20180420203322version 20180420203341: search_key=赵石爱凤定 is processing
+20180420203322dynamic price_duan
+20180420203322赵石爱凤定parse_search_key complete
+20180420203322version 20180420203341: search_key=赵石爱凤定 is completed
+20180420203322version 20180420203341: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180420203322无色限唇膏|||1255mmb_db_operation.table_check_init
+20180420203322无色限唇膏mmb_db_operation.table_init
+20180420203322version 20180420203341: search_key=无色限唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203341: search_key=无色限唇膏 page_num=1 insert success
+20180420203322version 20180420203341: search_key=无色限唇膏 page_num=2 insert success
+20180420203322version 20180420203341: search_key=无色限唇膏 page_num=3 insert success
+20180420203322无色限唇膏parse_search_key complete
+20180420203322version 20180420203341: search_key=无色限唇膏 is completed
+20180420203322version 20180420203341: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180420203322防裂唇膏|||1255mmb_db_operation.table_check_init
+20180420203322防裂唇膏mmb_db_operation.table_init
+20180420203322version 20180420203341: search_key=防裂唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203341: search_key=防裂唇膏 page_num=1 insert success
+20180420203322防裂唇膏parse_search_key complete
+20180420203322version 20180420203341: search_key=防裂唇膏 is completed
+20180420203322version 20180420203341: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180420203322赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180420203322赵石爱凤定mmb_db_operation.table_init
+20180420203322version 20180420203613: search_key=赵石爱凤定 is processing
+20180420203322dynamic price_duan
+20180420203322赵石爱凤定parse_search_key complete
+20180420203322version 20180420203613: search_key=赵石爱凤定 is completed
+20180420203322version 20180420203613: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180420203322无色限唇膏|||1255mmb_db_operation.table_check_init
+20180420203322无色限唇膏mmb_db_operation.table_init
+20180420203322version 20180420203613: search_key=无色限唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203613: search_key=无色限唇膏 page_num=1 insert success
+20180420203322version 20180420203613: search_key=无色限唇膏 page_num=2 insert success
+20180420203322version 20180420203613: search_key=无色限唇膏 page_num=3 insert success
+20180420203322无色限唇膏parse_search_key complete
+20180420203322version 20180420203613: search_key=无色限唇膏 is completed
+20180420203322version 20180420203613: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180420203322防裂唇膏|||1255mmb_db_operation.table_check_init
+20180420203322防裂唇膏mmb_db_operation.table_init
+20180420203322version 20180420203613: search_key=防裂唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203613: search_key=防裂唇膏 page_num=1 insert success
+20180420203322防裂唇膏parse_search_key complete
+20180420203322version 20180420203613: search_key=防裂唇膏 is completed
+20180420203322version 20180420203613: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180420203322赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180420203322赵石爱凤定mmb_db_operation.table_init
+20180420203322version 20180420203742: search_key=赵石爱凤定 is processing
+20180420203322dynamic price_duan
+20180420203322赵石爱凤定parse_search_key complete
+20180420203322version 20180420203742: search_key=赵石爱凤定 is completed
+20180420203322version 20180420203742: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180420203322无色限唇膏|||1255mmb_db_operation.table_check_init
+20180420203322无色限唇膏mmb_db_operation.table_init
+20180420203322version 20180420203742: search_key=无色限唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203742: search_key=无色限唇膏 page_num=1 insert success
+20180420203322version 20180420203742: search_key=无色限唇膏 page_num=2 insert success
+20180420203322version 20180420203742: search_key=无色限唇膏 page_num=3 insert success
+20180420203322无色限唇膏parse_search_key complete
+20180420203322version 20180420203742: search_key=无色限唇膏 is completed
+20180420203322version 20180420203742: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180420203322防裂唇膏|||1255mmb_db_operation.table_check_init
+20180420203322防裂唇膏mmb_db_operation.table_init
+20180420203322version 20180420203742: search_key=防裂唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203742: search_key=防裂唇膏 page_num=1 insert success
+20180420203322防裂唇膏parse_search_key complete
+20180420203322version 20180420203742: search_key=防裂唇膏 is completed
+20180420203322version 20180420203742: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180420203322赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180420203322赵石爱凤定mmb_db_operation.table_init
+20180420203322version 20180420203824: search_key=赵石爱凤定 is processing
+20180420203322dynamic price_duan
+20180420203322赵石爱凤定parse_search_key complete
+20180420203322version 20180420203824: search_key=赵石爱凤定 is completed
+20180420203322version 20180420203824: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180420203322无色限唇膏|||1255mmb_db_operation.table_check_init
+20180420203322无色限唇膏mmb_db_operation.table_init
+20180420203322version 20180420203824: search_key=无色限唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203824: search_key=无色限唇膏 page_num=1 insert success
+20180420203322version 20180420203824: search_key=无色限唇膏 page_num=2 insert success
+20180420203322version 20180420203824: search_key=无色限唇膏 page_num=3 insert success
+20180420203322无色限唇膏parse_search_key complete
+20180420203322version 20180420203824: search_key=无色限唇膏 is completed
+20180420203322version 20180420203824: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180420203322防裂唇膏|||1255mmb_db_operation.table_check_init
+20180420203322防裂唇膏mmb_db_operation.table_init
+20180420203322version 20180420203824: search_key=防裂唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203824: search_key=防裂唇膏 page_num=1 insert success
+20180420203322防裂唇膏parse_search_key complete
+20180420203322version 20180420203824: search_key=防裂唇膏 is completed
+20180420203322version 20180420203824: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180420203322赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180420203322赵石爱凤定mmb_db_operation.table_init
+20180420203322version 20180420203830: search_key=赵石爱凤定 is processing
+20180420203322dynamic price_duan
+20180420203322赵石爱凤定parse_search_key complete
+20180420203322version 20180420203830: search_key=赵石爱凤定 is completed
+20180420203322version 20180420203830: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180420203322无色限唇膏|||1255mmb_db_operation.table_check_init
+20180420203322无色限唇膏mmb_db_operation.table_init
+20180420203322version 20180420203830: search_key=无色限唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203830: search_key=无色限唇膏 page_num=1 insert success
+20180420203322version 20180420203830: search_key=无色限唇膏 page_num=2 insert success
+20180420203322version 20180420203830: search_key=无色限唇膏 page_num=3 insert success
+20180420203322无色限唇膏parse_search_key complete
+20180420203322version 20180420203830: search_key=无色限唇膏 is completed
+20180420203322version 20180420203830: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180420203322防裂唇膏|||1255mmb_db_operation.table_check_init
+20180420203322防裂唇膏mmb_db_operation.table_init
+20180420203322version 20180420203830: search_key=防裂唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420203830: search_key=防裂唇膏 page_num=1 insert success
+20180420203322防裂唇膏parse_search_key complete
+20180420203322version 20180420203830: search_key=防裂唇膏 is completed
+20180420203322version 20180420203830: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180420203322赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180420203322赵石爱凤定mmb_db_operation.table_init
+20180420203322version 20180420204046: search_key=赵石爱凤定 is processing
+20180420203322dynamic price_duan
+20180420203322赵石爱凤定parse_search_key complete
+20180420203322version 20180420204046: search_key=赵石爱凤定 is completed
+20180420203322version 20180420204046: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180420203322无色限唇膏|||1255mmb_db_operation.table_check_init
+20180420203322无色限唇膏mmb_db_operation.table_init
+20180420203322version 20180420204046: search_key=无色限唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420204046: search_key=无色限唇膏 page_num=1 insert success
+20180420203322version 20180420204046: search_key=无色限唇膏 page_num=2 insert success
+20180420203322version 20180420204046: search_key=无色限唇膏 page_num=3 insert success
+20180420203322无色限唇膏parse_search_key complete
+20180420203322version 20180420204046: search_key=无色限唇膏 is completed
+20180420203322version 20180420204046: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180420203322防裂唇膏|||1255mmb_db_operation.table_check_init
+20180420203322防裂唇膏mmb_db_operation.table_init
+20180420203322version 20180420204046: search_key=防裂唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420204046: search_key=防裂唇膏 page_num=1 insert success
+20180420203322防裂唇膏parse_search_key complete
+20180420203322version 20180420204046: search_key=防裂唇膏 is completed
+20180420203322version 20180420204046: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180420203322赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180420203322赵石爱凤定mmb_db_operation.table_init
+20180420203322version 20180420204050: search_key=赵石爱凤定 is processing
+20180420203322dynamic price_duan
+20180420203322赵石爱凤定parse_search_key complete
+20180420203322version 20180420204050: search_key=赵石爱凤定 is completed
+20180420203322version 20180420204050: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180420203322无色限唇膏|||1255mmb_db_operation.table_check_init
+20180420203322无色限唇膏mmb_db_operation.table_init
+20180420203322version 20180420204050: search_key=无色限唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420204050: search_key=无色限唇膏 page_num=1 insert success
+20180420203322version 20180420204050: search_key=无色限唇膏 page_num=2 insert success
+20180420203322version 20180420204050: search_key=无色限唇膏 page_num=3 insert success
+20180420203322无色限唇膏parse_search_key complete
+20180420203322version 20180420204050: search_key=无色限唇膏 is completed
+20180420203322version 20180420204050: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180420203322防裂唇膏|||1255mmb_db_operation.table_check_init
+20180420203322防裂唇膏mmb_db_operation.table_init
+20180420203322version 20180420204050: search_key=防裂唇膏 is processing
+20180420203322dynamic price_duan
+20180420203322version 20180420204050: search_key=防裂唇膏 page_num=1 insert success
+20180420203322防裂唇膏parse_search_key complete
+20180420203322version 20180420204050: search_key=防裂唇膏 is completed
+20180420203322version 20180420204050: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180421085210赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180421085210赵石爱凤定mmb_db_operation.table_init
+20180421085210version 20180421085210: search_key=赵石爱凤定 is processing
+20180421085210dynamic price_duan
+20180421085210赵石爱凤定parse_search_key complete
+20180421085210version 20180421085210: search_key=赵石爱凤定 is completed
+20180421085210version 20180421085210: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180421085210无色限唇膏|||1255mmb_db_operation.table_check_init
+20180421085210无色限唇膏mmb_db_operation.table_init
+20180421085210version 20180421085210: search_key=无色限唇膏 is processing
+20180421085210dynamic price_duan
+20180421085210version 20180421085210: search_key=无色限唇膏 page_num=1 insert success
+20180421085210version 20180421085210: search_key=无色限唇膏 page_num=2 insert success
+20180421085210version 20180421085210: search_key=无色限唇膏 page_num=3 insert success
+20180421085210无色限唇膏parse_search_key complete
+20180421085210version 20180421085210: search_key=无色限唇膏 is completed
+20180421085210version 20180421085210: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180421085210防裂唇膏|||1255mmb_db_operation.table_check_init
+20180421085210防裂唇膏mmb_db_operation.table_init
+20180421085210version 20180421085210: search_key=防裂唇膏 is processing
+20180421085210dynamic price_duan
+20180421085210version 20180421085210: search_key=防裂唇膏 page_num=1 insert success
+20180421085210防裂唇膏parse_search_key complete
+20180421085210version 20180421085210: search_key=防裂唇膏 is completed
+20180421085210version 20180421085210: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180421091153防裂唇膏|||1255mmb_db_operation.table_check_init
+20180421091153防裂唇膏mmb_db_operation.table_init
+20180421091153version 20180421091153: search_key=防裂唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421091153: search_key=防裂唇膏 page_num=1 insert success
+20180421091153防裂唇膏parse_search_key complete
+20180421091153version 20180421091153: search_key=防裂唇膏 is completed
+20180421091153version 20180421091153: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180421091153赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180421091153赵石爱凤定mmb_db_operation.table_init
+20180421091153version 20180421095258: search_key=赵石爱凤定 is processing
+20180421091153dynamic price_duan
+20180421091153赵石爱凤定parse_search_key complete
+20180421091153version 20180421095258: search_key=赵石爱凤定 is completed
+20180421091153version 20180421095258: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180421091153无色限唇膏|||1255mmb_db_operation.table_check_init
+20180421091153无色限唇膏mmb_db_operation.table_init
+20180421091153version 20180421095258: search_key=无色限唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421095258: search_key=无色限唇膏 page_num=1 insert success
+20180421091153version 20180421095258: search_key=无色限唇膏 page_num=2 insert success
+20180421091153version 20180421095258: search_key=无色限唇膏 page_num=3 insert success
+20180421091153无色限唇膏parse_search_key complete
+20180421091153version 20180421095258: search_key=无色限唇膏 is completed
+20180421091153version 20180421095258: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180421091153防裂唇膏|||1255mmb_db_operation.table_check_init
+20180421091153防裂唇膏mmb_db_operation.table_init
+20180421091153version 20180421095258: search_key=防裂唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421095258: search_key=防裂唇膏 page_num=1 insert success
+20180421091153防裂唇膏parse_search_key complete
+20180421091153version 20180421095258: search_key=防裂唇膏 is completed
+20180421091153version 20180421095258: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180421091153赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180421091153赵石爱凤定mmb_db_operation.table_init
+20180421091153version 20180421095709: search_key=赵石爱凤定 is processing
+20180421091153dynamic price_duan
+20180421091153赵石爱凤定parse_search_key complete
+20180421091153version 20180421095709: search_key=赵石爱凤定 is completed
+20180421091153version 20180421095709: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180421091153无色限唇膏|||1255mmb_db_operation.table_check_init
+20180421091153无色限唇膏mmb_db_operation.table_init
+20180421091153version 20180421095709: search_key=无色限唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421095709: search_key=无色限唇膏 page_num=1 insert success
+20180421091153version 20180421095709: search_key=无色限唇膏 page_num=2 insert success
+20180421091153version 20180421095709: search_key=无色限唇膏 page_num=3 insert success
+20180421091153无色限唇膏parse_search_key complete
+20180421091153version 20180421095709: search_key=无色限唇膏 is completed
+20180421091153version 20180421095709: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180421091153防裂唇膏|||1255mmb_db_operation.table_check_init
+20180421091153防裂唇膏mmb_db_operation.table_init
+20180421091153version 20180421095709: search_key=防裂唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421095709: search_key=防裂唇膏 page_num=1 insert success
+20180421091153防裂唇膏parse_search_key complete
+20180421091153version 20180421095709: search_key=防裂唇膏 is completed
+20180421091153version 20180421095709: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180421091153赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180421091153赵石爱凤定mmb_db_operation.table_init
+20180421091153version 20180421095756: search_key=赵石爱凤定 is processing
+20180421091153dynamic price_duan
+20180421091153赵石爱凤定parse_search_key complete
+20180421091153version 20180421095756: search_key=赵石爱凤定 is completed
+20180421091153version 20180421095756: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180421091153无色限唇膏|||1255mmb_db_operation.table_check_init
+20180421091153无色限唇膏mmb_db_operation.table_init
+20180421091153version 20180421095756: search_key=无色限唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421095756: search_key=无色限唇膏 page_num=1 insert success
+20180421091153version 20180421095756: search_key=无色限唇膏 page_num=2 insert success
+20180421091153version 20180421095756: search_key=无色限唇膏 page_num=3 insert success
+20180421091153无色限唇膏parse_search_key complete
+20180421091153version 20180421095756: search_key=无色限唇膏 is completed
+20180421091153version 20180421095756: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180421091153防裂唇膏|||1255mmb_db_operation.table_check_init
+20180421091153防裂唇膏mmb_db_operation.table_init
+20180421091153version 20180421095756: search_key=防裂唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421095756: search_key=防裂唇膏 page_num=1 insert success
+20180421091153防裂唇膏parse_search_key complete
+20180421091153version 20180421095756: search_key=防裂唇膏 is completed
+20180421091153version 20180421095756: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180421091153DB: Table mmb_api_modles.modles_check created successfully
+20180421091153赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180421091153DB: Table mmb_modles_pcid_5.modles_cid50010808 created successfully
+20180421091153赵石爱凤定mmb_db_operation.table_init
+20180421091153version 20180421100634: search_key=赵石爱凤定 is processing
+20180421091153dynamic price_duan
+20180421091153赵石爱凤定parse_search_key complete
+20180421091153version 20180421100634: search_key=赵石爱凤定 is completed
+20180421091153version 20180421100634: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180421091153无色限唇膏|||1255mmb_db_operation.table_check_init
+20180421091153无色限唇膏mmb_db_operation.table_init
+20180421091153version 20180421100634: search_key=无色限唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421100634: search_key=无色限唇膏 page_num=1 insert success
+20180421091153version 20180421100634: search_key=无色限唇膏 page_num=2 insert success
+20180421091153version 20180421100634: search_key=无色限唇膏 page_num=3 insert success
+20180421091153无色限唇膏parse_search_key complete
+20180421091153version 20180421100634: search_key=无色限唇膏 is completed
+20180421091153version 20180421100634: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180421091153防裂唇膏|||1255mmb_db_operation.table_check_init
+20180421091153防裂唇膏mmb_db_operation.table_init
+20180421091153version 20180421100634: search_key=防裂唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421100634: search_key=防裂唇膏 page_num=1 insert success
+20180421091153防裂唇膏parse_search_key complete
+20180421091153version 20180421100634: search_key=防裂唇膏 is completed
+20180421091153version 20180421100634: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180421091153赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180421091153赵石爱凤定mmb_db_operation.table_init
+20180421091153version 20180421101318: search_key=赵石爱凤定 is processing
+20180421091153dynamic price_duan
+20180421091153赵石爱凤定parse_search_key complete
+20180421091153version 20180421101318: search_key=赵石爱凤定 is completed
+20180421091153version 20180421101318: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180421091153无色限唇膏|||1255mmb_db_operation.table_check_init
+20180421091153无色限唇膏mmb_db_operation.table_init
+20180421091153version 20180421101318: search_key=无色限唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421101318: search_key=无色限唇膏 page_num=1 insert success
+20180421091153version 20180421101318: search_key=无色限唇膏 page_num=2 insert success
+20180421091153version 20180421101318: search_key=无色限唇膏 page_num=3 insert success
+20180421091153无色限唇膏parse_search_key complete
+20180421091153version 20180421101318: search_key=无色限唇膏 is completed
+20180421091153version 20180421101318: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180421091153防裂唇膏|||1255mmb_db_operation.table_check_init
+20180421091153防裂唇膏mmb_db_operation.table_init
+20180421091153version 20180421101318: search_key=防裂唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421101318: search_key=防裂唇膏 page_num=1 insert success
+20180421091153防裂唇膏parse_search_key complete
+20180421091153version 20180421101318: search_key=防裂唇膏 is completed
+20180421091153version 20180421101318: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180421091153赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180421091153赵石爱凤定mmb_db_operation.table_init
+20180421091153version 20180421101421: search_key=赵石爱凤定 is processing
+20180421091153dynamic price_duan
+20180421091153赵石爱凤定parse_search_key complete
+20180421091153version 20180421101421: search_key=赵石爱凤定 is completed
+20180421091153version 20180421101421: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180421091153无色限唇膏|||1255mmb_db_operation.table_check_init
+20180421091153无色限唇膏mmb_db_operation.table_init
+20180421091153version 20180421101421: search_key=无色限唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421101421: search_key=无色限唇膏 page_num=1 insert success
+20180421091153version 20180421101421: search_key=无色限唇膏 page_num=2 insert success
+20180421091153version 20180421101421: search_key=无色限唇膏 page_num=3 insert success
+20180421091153无色限唇膏parse_search_key complete
+20180421091153version 20180421101421: search_key=无色限唇膏 is completed
+20180421091153version 20180421101421: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180421091153防裂唇膏|||1255mmb_db_operation.table_check_init
+20180421091153防裂唇膏mmb_db_operation.table_init
+20180421091153version 20180421101421: search_key=防裂唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421101421: search_key=防裂唇膏 page_num=1 insert success
+20180421091153防裂唇膏parse_search_key complete
+20180421091153version 20180421101421: search_key=防裂唇膏 is completed
+20180421091153version 20180421101421: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180421091153赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180421091153赵石爱凤定mmb_db_operation.table_init
+20180421091153version 20180421101407: search_key=赵石爱凤定 is processing
+20180421091153dynamic price_duan
+20180421091153赵石爱凤定parse_search_key complete
+20180421091153version 20180421101407: search_key=赵石爱凤定 is completed
+20180421091153version 20180421101407: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180421091153无色限唇膏|||1255mmb_db_operation.table_check_init
+20180421091153无色限唇膏mmb_db_operation.table_init
+20180421091153version 20180421101407: search_key=无色限唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421101407: search_key=无色限唇膏 page_num=1 insert success
+20180421091153version 20180421101407: search_key=无色限唇膏 page_num=2 insert success
+20180421091153version 20180421101407: search_key=无色限唇膏 page_num=3 insert success
+20180421091153无色限唇膏parse_search_key complete
+20180421091153version 20180421101407: search_key=无色限唇膏 is completed
+20180421091153version 20180421101407: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180421091153防裂唇膏|||1255mmb_db_operation.table_check_init
+20180421091153防裂唇膏mmb_db_operation.table_init
+20180421091153version 20180421101407: search_key=防裂唇膏 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421101407: search_key=防裂唇膏 page_num=1 insert success
+20180421091153防裂唇膏parse_search_key complete
+20180421091153version 20180421101407: search_key=防裂唇膏 is completed
+20180421091153version 20180421101407: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180421144914赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180421144914赵石爱凤定mmb_db_operation.table_init
+20180421144914version 20180421145829: search_key=赵石爱凤定 is processing
+20180421144914dynamic price_duan
+20180421144914赵石爱凤定parse_search_key complete
+20180421144914version 20180421145829: search_key=赵石爱凤定 is completed
+20180421144914version 20180421145829: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180421144914无色限唇膏|||1255mmb_db_operation.table_check_init
+20180421144914无色限唇膏mmb_db_operation.table_init
+20180421144914version 20180421145829: search_key=无色限唇膏 is processing
+20180421144914dynamic price_duan
+20180421144914version 20180421145829: search_key=无色限唇膏 page_num=1 insert success
+20180421144914version 20180421145829: search_key=无色限唇膏 page_num=2 insert success
+20180421144914version 20180421145829: search_key=无色限唇膏 page_num=3 insert success
+20180421144914无色限唇膏parse_search_key complete
+20180421144914version 20180421145829: search_key=无色限唇膏 is completed
+20180421144914version 20180421145829: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423125941防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423125941防裂唇膏mmb_db_operation.table_init
+20180423125941version 20180423130252: search_key=防裂唇膏 is processing
+20180423125941dynamic price_duan
+20180423125941version 20180423130252: search_key=防裂唇膏 page_num=1 insert success
+20180423125941防裂唇膏parse_search_key complete
+20180423125941version 20180423130252: search_key=防裂唇膏 is completed
+20180423125941version 20180423130252: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423125941防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423125941防裂唇膏mmb_db_operation.table_init
+20180423125941version 20180423131254: search_key=防裂唇膏 is processing
+20180423125941dynamic price_duan
+20180423125941version 20180423131254: search_key=防裂唇膏 page_num=1 insert success
+20180423125941防裂唇膏parse_search_key complete
+20180423125941version 20180423131254: search_key=防裂唇膏 is completed
+20180423125941version 20180423131254: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423125941防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423125941防裂唇膏mmb_db_operation.table_init
+20180423125941version 20180423131355: search_key=防裂唇膏 is processing
+20180423125941dynamic price_duan
+20180423125941version 20180423131355: search_key=防裂唇膏 page_num=1 insert success
+20180423125941防裂唇膏parse_search_key complete
+20180423125941version 20180423131355: search_key=防裂唇膏 is completed
+20180423125941version 20180423131355: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423132703防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423132703防裂唇膏mmb_db_operation.table_init
+20180423132703version 20180423132821: search_key=防裂唇膏 is processing
+20180423132703dynamic price_duan
+20180423132703version 20180423132821: search_key=防裂唇膏 page_num=1 insert success
+20180423132703防裂唇膏parse_search_key complete
+20180423132703version 20180423132821: search_key=防裂唇膏 is completed
+20180423132703version 20180423132821: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423132702赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423132702赵石爱凤定mmb_db_operation.table_init
+20180423132702version 20180423132954: search_key=赵石爱凤定 is processing
+20180423132702dynamic price_duan
+20180423132702赵石爱凤定parse_search_key complete
+20180423132702version 20180423132954: search_key=赵石爱凤定 is completed
+20180423132702version 20180423132954: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423132702无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423132702无色限唇膏mmb_db_operation.table_init
+20180423132702version 20180423133014: search_key=无色限唇膏 is processing
+20180423132702dynamic price_duan
+20180423132702version 20180423133014: search_key=无色限唇膏 page_num=1 insert success
+20180423132702version 20180423133014: search_key=无色限唇膏 page_num=2 insert success
+20180423132702version 20180423133014: search_key=无色限唇膏 page_num=3 insert success
+20180423132702无色限唇膏parse_search_key complete
+20180423132702version 20180423133014: search_key=无色限唇膏 is completed
+20180423132702version 20180423133014: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423133308防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423133308防裂唇膏mmb_db_operation.table_init
+20180423133308version 20180423133328: search_key=防裂唇膏 is processing
+20180423133308dynamic price_duan
+20180423133308version 20180423133328: search_key=防裂唇膏 page_num=1 insert success
+20180423133308防裂唇膏parse_search_key complete
+20180423133308version 20180423133328: search_key=防裂唇膏 is completed
+20180423133308version 20180423133328: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423133308赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423133308赵石爱凤定mmb_db_operation.table_init
+20180423133308version 20180423133404: search_key=赵石爱凤定 is processing
+20180423133308dynamic price_duan
+20180423133308赵石爱凤定parse_search_key complete
+20180423133308version 20180423133404: search_key=赵石爱凤定 is completed
+20180423133308version 20180423133404: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423140217赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423140217赵石爱凤定mmb_db_operation.table_init
+20180423140217version 20180423140329: search_key=赵石爱凤定 is processing
+20180423140217dynamic price_duan
+20180423140217赵石爱凤定parse_search_key complete
+20180423140217version 20180423140329: search_key=赵石爱凤定 is completed
+20180423140217version 20180423140329: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423140217防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423140217防裂唇膏mmb_db_operation.table_init
+20180423140217version 20180423140855: search_key=防裂唇膏 is processing
+20180423140217dynamic price_duan
+20180423140217version 20180423140855: search_key=防裂唇膏 page_num=1 insert success
+20180423140217防裂唇膏parse_search_key complete
+20180423140217version 20180423140855: search_key=防裂唇膏 is completed
+20180423140217version 20180423140855: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423140217无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423140217无色限唇膏mmb_db_operation.table_init
+20180423140217version 20180423141155: search_key=无色限唇膏 is processing
+20180423140217dynamic price_duan
+20180423140217version 20180423141155: search_key=无色限唇膏 page_num=1 insert success
+20180423140217version 20180423141155: search_key=无色限唇膏 page_num=2 insert success
+20180423140217version 20180423141155: search_key=无色限唇膏 page_num=3 insert success
+20180423140217无色限唇膏parse_search_key complete
+20180423140217version 20180423141155: search_key=无色限唇膏 is completed
+20180423140217version 20180423141155: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423140217赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423140217赵石爱凤定mmb_db_operation.table_init
+20180423140217version 20180423141549: search_key=赵石爱凤定 is processing
+20180423140217dynamic price_duan
+20180423140217赵石爱凤定parse_search_key complete
+20180423140217version 20180423141549: search_key=赵石爱凤定 is completed
+20180423140217version 20180423141549: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423140217防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423140217防裂唇膏mmb_db_operation.table_init
+20180423140217version 20180423141630: search_key=防裂唇膏 is processing
+20180423140217dynamic price_duan
+20180423140217version 20180423141630: search_key=防裂唇膏 page_num=1 insert success
+20180423140217防裂唇膏parse_search_key complete
+20180423140217version 20180423141630: search_key=防裂唇膏 is completed
+20180423140217version 20180423141630: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423140217赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423140217赵石爱凤定mmb_db_operation.table_init
+20180423140217version 20180423142617: search_key=赵石爱凤定 is processing
+20180423140217dynamic price_duan
+20180423140217赵石爱凤定parse_search_key complete
+20180423140217version 20180423142617: search_key=赵石爱凤定 is completed
+20180423140217version 20180423142617: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423140217防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423140217防裂唇膏mmb_db_operation.table_init
+20180423140217version 20180423150249: search_key=防裂唇膏 is processing
+20180423140217dynamic price_duan
+20180423140217version 20180423150249: search_key=防裂唇膏 page_num=1 insert success
+20180423140217防裂唇膏parse_search_key complete
+20180423140217version 20180423150249: search_key=防裂唇膏 is completed
+20180423140217version 20180423150249: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423140217无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423140217无色限唇膏mmb_db_operation.table_init
+20180423140217version 20180423150626: search_key=无色限唇膏 is processing
+20180423140217dynamic price_duan
+20180423140217version 20180423150626: search_key=无色限唇膏 page_num=1 insert success
+20180423140217version 20180423150626: search_key=无色限唇膏 page_num=2 insert success
+20180423140217version 20180423150626: search_key=无色限唇膏 page_num=3 insert success
+20180423140217无色限唇膏parse_search_key complete
+20180423140217version 20180423150626: search_key=无色限唇膏 is completed
+20180423140217version 20180423150626: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423140217无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423140217无色限唇膏mmb_db_operation.table_init
+20180423140217version 20180423150855: search_key=无色限唇膏 is processing
+20180423140217dynamic price_duan
+20180423140217version 20180423150855: search_key=无色限唇膏 page_num=1 insert success
+20180423140217version 20180423150855: search_key=无色限唇膏 page_num=2 insert success
+20180423140217version 20180423150855: search_key=无色限唇膏 page_num=3 insert success
+20180423140217无色限唇膏parse_search_key complete
+20180423140217version 20180423150855: search_key=无色限唇膏 is completed
+20180423140217version 20180423150855: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423151019赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423151019赵石爱凤定mmb_db_operation.table_init
+20180423151019version 20180423151051: search_key=赵石爱凤定 is processing
+20180423151019dynamic price_duan
+20180423151019赵石爱凤定parse_search_key complete
+20180423151019version 20180423151051: search_key=赵石爱凤定 is completed
+20180423151019version 20180423151051: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423151019防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423151019防裂唇膏mmb_db_operation.table_init
+20180423151019version 20180423151524: search_key=防裂唇膏 is processing
+20180423151019dynamic price_duan
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423151849赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423151849赵石爱凤定mmb_db_operation.table_init
+20180423151849version 20180423151926: search_key=赵石爱凤定 is processing
+20180423151849dynamic price_duan
+20180423151849赵石爱凤定parse_search_key complete
+20180423151849version 20180423151926: search_key=赵石爱凤定 is completed
+20180423151849version 20180423151926: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423151849赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423151849赵石爱凤定mmb_db_operation.table_init
+20180423151849version 20180423152002: search_key=赵石爱凤定 is processing
+20180423151849dynamic price_duan
+20180423151849赵石爱凤定parse_search_key complete
+20180423151849version 20180423152002: search_key=赵石爱凤定 is completed
+20180423151849version 20180423152002: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423151849无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423151849无色限唇膏mmb_db_operation.table_init
+20180423151849version 20180423152945: search_key=无色限唇膏 is processing
+20180423151849dynamic price_duan
+20180423151849version 20180423152945: search_key=无色限唇膏 page_num=1 insert success
+20180423151849version 20180423152945: search_key=无色限唇膏 page_num=2 insert success
+20180423151849version 20180423152945: search_key=无色限唇膏 page_num=3 insert success
+20180423151849无色限唇膏parse_search_key complete
+20180423151849version 20180423152945: search_key=无色限唇膏 is completed
+20180423151849version 20180423152945: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423191548赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423191548赵石爱凤定mmb_db_operation.table_init
+20180423191548version 20180423191736: search_key=赵石爱凤定 is processing
+20180423191548dynamic price_duan
+20180423191548赵石爱凤定parse_search_key complete
+20180423191548version 20180423191736: search_key=赵石爱凤定 is completed
+20180423191548version 20180423191736: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423191548无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423191548无色限唇膏mmb_db_operation.table_init
+20180423191548version 20180423191736: search_key=无色限唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423191736: search_key=无色限唇膏 page_num=1 insert success
+20180423191548version 20180423191736: search_key=无色限唇膏 page_num=2 insert success
+20180423191548version 20180423191736: search_key=无色限唇膏 page_num=3 insert success
+20180423191548无色限唇膏parse_search_key complete
+20180423191548version 20180423191736: search_key=无色限唇膏 is completed
+20180423191548version 20180423191736: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423191548防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423191548防裂唇膏mmb_db_operation.table_init
+20180423191548version 20180423191736: search_key=防裂唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423191736: search_key=防裂唇膏 page_num=1 insert success
+20180423191548防裂唇膏parse_search_key complete
+20180423191548version 20180423191736: search_key=防裂唇膏 is completed
+20180423191548version 20180423191736: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423191548赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423191548赵石爱凤定mmb_db_operation.table_init
+20180423191548version 20180423192216: search_key=赵石爱凤定 is processing
+20180423191548dynamic price_duan
+20180423191548赵石爱凤定parse_search_key complete
+20180423191548version 20180423192216: search_key=赵石爱凤定 is completed
+20180423191548version 20180423192216: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423191548无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423191548无色限唇膏mmb_db_operation.table_init
+20180423191548version 20180423192216: search_key=无色限唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423192216: search_key=无色限唇膏 page_num=1 insert success
+20180423191548version 20180423192216: search_key=无色限唇膏 page_num=2 insert success
+20180423191548version 20180423192216: search_key=无色限唇膏 page_num=3 insert success
+20180423191548无色限唇膏parse_search_key complete
+20180423191548version 20180423192216: search_key=无色限唇膏 is completed
+20180423191548version 20180423192216: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423191548防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423191548防裂唇膏mmb_db_operation.table_init
+20180423191548version 20180423192216: search_key=防裂唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423192216: search_key=防裂唇膏 page_num=1 insert success
+20180423191548防裂唇膏parse_search_key complete
+20180423191548version 20180423192216: search_key=防裂唇膏 is completed
+20180423191548version 20180423192216: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423191548赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423191548赵石爱凤定mmb_db_operation.table_init
+20180423191548version 20180423192847: search_key=赵石爱凤定 is processing
+20180423191548dynamic price_duan
+20180423191548赵石爱凤定parse_search_key complete
+20180423191548version 20180423192847: search_key=赵石爱凤定 is completed
+20180423191548version 20180423192847: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423191548无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423191548无色限唇膏mmb_db_operation.table_init
+20180423191548version 20180423192847: search_key=无色限唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423192847: search_key=无色限唇膏 page_num=1 insert success
+20180423191548version 20180423192847: search_key=无色限唇膏 page_num=2 insert success
+20180423191548version 20180423192847: search_key=无色限唇膏 page_num=3 insert success
+20180423191548无色限唇膏parse_search_key complete
+20180423191548version 20180423192847: search_key=无色限唇膏 is completed
+20180423191548version 20180423192847: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423191548防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423191548防裂唇膏mmb_db_operation.table_init
+20180423191548version 20180423192847: search_key=防裂唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423192847: search_key=防裂唇膏 page_num=1 insert success
+20180423191548防裂唇膏parse_search_key complete
+20180423191548version 20180423192847: search_key=防裂唇膏 is completed
+20180423191548version 20180423192847: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423191548赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423191548赵石爱凤定mmb_db_operation.table_init
+20180423191548version 20180423193110: search_key=赵石爱凤定 is processing
+20180423191548dynamic price_duan
+20180423191548赵石爱凤定parse_search_key complete
+20180423191548version 20180423193110: search_key=赵石爱凤定 is completed
+20180423191548version 20180423193110: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423191548无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423191548无色限唇膏mmb_db_operation.table_init
+20180423191548version 20180423193110: search_key=无色限唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423193110: search_key=无色限唇膏 page_num=1 insert success
+20180423191548version 20180423193110: search_key=无色限唇膏 page_num=2 insert success
+20180423191548version 20180423193110: search_key=无色限唇膏 page_num=3 insert success
+20180423191548无色限唇膏parse_search_key complete
+20180423191548version 20180423193110: search_key=无色限唇膏 is completed
+20180423191548version 20180423193110: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423191548防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423191548防裂唇膏mmb_db_operation.table_init
+20180423191548version 20180423193110: search_key=防裂唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423193110: search_key=防裂唇膏 page_num=1 insert success
+20180423191548防裂唇膏parse_search_key complete
+20180423191548version 20180423193110: search_key=防裂唇膏 is completed
+20180423191548version 20180423193110: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423191548赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423191548赵石爱凤定mmb_db_operation.table_init
+20180423191548version 20180423193946: search_key=赵石爱凤定 is processing
+20180423191548dynamic price_duan
+20180423191548赵石爱凤定parse_search_key complete
+20180423191548version 20180423193946: search_key=赵石爱凤定 is completed
+20180423191548version 20180423193946: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423191548无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423191548无色限唇膏mmb_db_operation.table_init
+20180423191548version 20180423193946: search_key=无色限唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423193946: search_key=无色限唇膏 page_num=1 insert success
+20180423191548version 20180423193946: search_key=无色限唇膏 page_num=2 insert success
+20180423191548version 20180423193946: search_key=无色限唇膏 page_num=3 insert success
+20180423191548无色限唇膏parse_search_key complete
+20180423191548version 20180423193946: search_key=无色限唇膏 is completed
+20180423191548version 20180423193946: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423191548防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423191548防裂唇膏mmb_db_operation.table_init
+20180423191548version 20180423193946: search_key=防裂唇膏 is processing
+20180423191548dynamic price_duan
+20180423191548version 20180423193946: search_key=防裂唇膏 page_num=1 insert success
+20180423191548防裂唇膏parse_search_key complete
+20180423191548version 20180423193946: search_key=防裂唇膏 is completed
+20180423191548version 20180423193946: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423200612防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423200612防裂唇膏mmb_db_operation.table_init
+20180423200612version 20180423200624: search_key=防裂唇膏 is processing
+20180423200612dynamic price_duan
+20180423200612version 20180423200624: search_key=防裂唇膏 page_num=1 insert success
+20180423200612防裂唇膏parse_search_key complete
+20180423200612version 20180423200624: search_key=防裂唇膏 is completed
+20180423200612version 20180423200624: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423200844赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423200844赵石爱凤定mmb_db_operation.table_init
+20180423200844version 20180423200944: search_key=赵石爱凤定 is processing
+20180423200844dynamic price_duan
+20180423200844赵石爱凤定parse_search_key complete
+20180423200844version 20180423200944: search_key=赵石爱凤定 is completed
+20180423200844version 20180423200944: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423200844赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423200844赵石爱凤定mmb_db_operation.table_init
+20180423200844version 20180423202541: search_key=赵石爱凤定 is processing
+20180423200844dynamic price_duan
+20180423200844赵石爱凤定parse_search_key complete
+20180423200844version 20180423202541: search_key=赵石爱凤定 is completed
+20180423200844version 20180423202541: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423200844赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423200844赵石爱凤定mmb_db_operation.table_init
+20180423200844version 20180423202615: search_key=赵石爱凤定 is processing
+20180423200844dynamic price_duan
+20180423200844赵石爱凤定parse_search_key complete
+20180423200844version 20180423202615: search_key=赵石爱凤定 is completed
+20180423200844version 20180423202615: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423200844无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423200844无色限唇膏mmb_db_operation.table_init
+20180423200844version 20180423202615: search_key=无色限唇膏 is processing
+20180423200844dynamic price_duan
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423202918赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423202918赵石爱凤定mmb_db_operation.table_init
+20180423202918version 20180423202927: search_key=赵石爱凤定 is processing
+20180423202918dynamic price_duan
+20180423202918赵石爱凤定parse_search_key complete
+20180423202918version 20180423202927: search_key=赵石爱凤定 is completed
+20180423202918version 20180423202927: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423202918赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423202918赵石爱凤定mmb_db_operation.table_init
+20180423202918version 20180423205527: search_key=赵石爱凤定 is processing
+20180423202918dynamic price_duan
+20180423202918赵石爱凤定parse_search_key complete
+20180423202918version 20180423205527: search_key=赵石爱凤定 is completed
+20180423202918version 20180423205527: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423202918无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423202918无色限唇膏mmb_db_operation.table_init
+20180423202918version 20180423205527: search_key=无色限唇膏 is processing
+20180423202918dynamic price_duan
+20180423202918version 20180423205527: search_key=无色限唇膏 page_num=1 insert success
+20180423202918version 20180423205527: search_key=无色限唇膏 page_num=2 insert success
+20180423202918version 20180423205527: search_key=无色限唇膏 page_num=3 insert success
+20180423202918无色限唇膏parse_search_key complete
+20180423202918version 20180423205527: search_key=无色限唇膏 is completed
+20180423202918version 20180423205527: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423202918防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423202918防裂唇膏mmb_db_operation.table_init
+20180423202918version 20180423205527: search_key=防裂唇膏 is processing
+20180423202918dynamic price_duan
+20180423202918version 20180423205527: search_key=防裂唇膏 page_num=1 insert success
+20180423202918防裂唇膏parse_search_key complete
+20180423202918version 20180423205527: search_key=防裂唇膏 is completed
+20180423202918version 20180423205527: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423202919赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423202919赵石爱凤定mmb_db_operation.table_init
+20180423202919version 20180423205948: search_key=赵石爱凤定 is processing
+20180423202919dynamic price_duan
+20180423202919赵石爱凤定parse_search_key complete
+20180423202919version 20180423205948: search_key=赵石爱凤定 is completed
+20180423202919version 20180423205948: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423202919无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423202919无色限唇膏mmb_db_operation.table_init
+20180423202919version 20180423205948: search_key=无色限唇膏 is processing
+20180423202919dynamic price_duan
+20180423202919version 20180423205948: search_key=无色限唇膏 page_num=1 insert success
+20180423202919version 20180423205948: search_key=无色限唇膏 page_num=2 insert success
+20180423202919version 20180423205948: search_key=无色限唇膏 page_num=3 insert success
+20180423202919无色限唇膏parse_search_key complete
+20180423202919version 20180423205948: search_key=无色限唇膏 is completed
+20180423202919version 20180423205948: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423202919防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423202919防裂唇膏mmb_db_operation.table_init
+20180423202919version 20180423205948: search_key=防裂唇膏 is processing
+20180423202919dynamic price_duan
+20180423202919version 20180423205948: search_key=防裂唇膏 page_num=1 insert success
+20180423202919防裂唇膏parse_search_key complete
+20180423202919version 20180423205948: search_key=防裂唇膏 is completed
+20180423202919version 20180423205948: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423202919赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423202919赵石爱凤定mmb_db_operation.table_init
+20180423202919version 20180423205959: search_key=赵石爱凤定 is processing
+20180423202919dynamic price_duan
+20180423202919赵石爱凤定parse_search_key complete
+20180423202919version 20180423205959: search_key=赵石爱凤定 is completed
+20180423202919version 20180423205959: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423202919无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423202919无色限唇膏mmb_db_operation.table_init
+20180423202919version 20180423205959: search_key=无色限唇膏 is processing
+20180423202919dynamic price_duan
+20180423202919version 20180423205959: search_key=无色限唇膏 page_num=1 insert success
+20180423202919version 20180423205959: search_key=无色限唇膏 page_num=2 insert success
+20180423202919version 20180423205959: search_key=无色限唇膏 page_num=3 insert success
+20180423202919无色限唇膏parse_search_key complete
+20180423202919version 20180423205959: search_key=无色限唇膏 is completed
+20180423202919version 20180423205959: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423202919防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423202919防裂唇膏mmb_db_operation.table_init
+20180423202919version 20180423205959: search_key=防裂唇膏 is processing
+20180423202919dynamic price_duan
+==============================50010808;唇膏/口红;赵石爱凤定|||1255==============================
+20180423210134赵石爱凤定|||1255mmb_db_operation.table_check_init
+20180423210134赵石爱凤定mmb_db_operation.table_init
+20180423210134version 20180423210153: search_key=赵石爱凤定 is processing
+20180423210134dynamic price_duan
+20180423210134赵石爱凤定parse_search_key complete
+20180423210134version 20180423210153: search_key=赵石爱凤定 is completed
+20180423210134version 20180423210153: search_key=赵石爱凤定|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423210134无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423210134无色限唇膏mmb_db_operation.table_init
+20180423210134version 20180423210153: search_key=无色限唇膏 is processing
+20180423210134dynamic price_duan
+20180423210134version 20180423210153: search_key=无色限唇膏 page_num=1 insert success
+20180423210134version 20180423210153: search_key=无色限唇膏 page_num=2 insert success
+20180423210134version 20180423210153: search_key=无色限唇膏 page_num=3 insert success
+20180423210134无色限唇膏parse_search_key complete
+20180423210134version 20180423210153: search_key=无色限唇膏 is completed
+20180423210134version 20180423210153: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423210134防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423210134防裂唇膏mmb_db_operation.table_init
+20180423210134version 20180423210153: search_key=防裂唇膏 is processing
+20180423210134dynamic price_duan
+20180423210134version 20180423210153: search_key=防裂唇膏 page_num=1 insert success
+20180423210134防裂唇膏parse_search_key complete
+20180423210134version 20180423210153: search_key=防裂唇膏 is completed
+20180423210134version 20180423210153: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180423210134防裂唇膏|||1255mmb_db_operation.table_check_init
+20180423210134防裂唇膏mmb_db_operation.table_init
+20180423210134version 20180423210316: search_key=防裂唇膏 is processing
+20180423210134dynamic price_duan
+20180423210134version 20180423210316: search_key=防裂唇膏 page_num=1 insert success
+20180423210134防裂唇膏parse_search_key complete
+20180423210134version 20180423210316: search_key=防裂唇膏 is completed
+20180423210134version 20180423210316: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180423210134无色限唇膏|||1255mmb_db_operation.table_check_init
+20180423210134无色限唇膏mmb_db_operation.table_init
+20180423210134version 20180423210611: search_key=无色限唇膏 is processing
+20180423210134dynamic price_duan
+20180423210134version 20180423210611: search_key=无色限唇膏 page_num=1 insert success
+20180423210134version 20180423210611: search_key=无色限唇膏 page_num=2 insert success
+20180423210134version 20180423210611: search_key=无色限唇膏 page_num=3 insert success
+20180423210134无色限唇膏parse_search_key complete
+20180423210134version 20180423210611: search_key=无色限唇膏 is completed
+20180423210134version 20180423210611: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 2138: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2138: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 2138: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 2138: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 2138: search_key=无色限唇膏 is completed
+20180426104552version 2138: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 2138: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2138: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 2138: search_key=防裂唇膏 is completed
+20180426104552version 2138: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 2113: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2113: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 2113: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 2113: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 2113: search_key=无色限唇膏 is completed
+20180426104552version 2113: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 2113: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2113: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 2113: search_key=防裂唇膏 is completed
+20180426104552version 2113: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 2148: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2148: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 2148: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 2148: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 2148: search_key=无色限唇膏 is completed
+20180426104552version 2148: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 2148: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2148: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 2148: search_key=防裂唇膏 is completed
+20180426104552version 2148: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 2170: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2170: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 2170: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 2170: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 2170: search_key=无色限唇膏 is completed
+20180426104552version 2170: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 2170: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2170: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 2170: search_key=防裂唇膏 is completed
+20180426104552version 2170: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 2072: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2072: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 2072: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 2072: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 2072: search_key=无色限唇膏 is completed
+20180426104552version 2072: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 2072: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2072: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 2072: search_key=防裂唇膏 is completed
+20180426104552version 2072: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 2113: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2113: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 2113: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 2113: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 2113: search_key=无色限唇膏 is completed
+20180426104552version 2113: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 2113: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2113: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 2113: search_key=防裂唇膏 is completed
+20180426104552version 2113: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 2096: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2096: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 2096: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 2096: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 2096: search_key=无色限唇膏 is completed
+20180426104552version 2096: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 2096: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 2096: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 2096: search_key=防裂唇膏 is completed
+20180426104552version 2096: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426111357: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426111357: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426111357: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426111357: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426111357: search_key=无色限唇膏 is completed
+20180426104552version 20180426111357: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426111357: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426111357: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426111357: search_key=防裂唇膏 is completed
+20180426104552version 20180426111357: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426112126: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426112126: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426112126: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426112126: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426112126: search_key=无色限唇膏 is completed
+20180426104552version 20180426112126: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426112126: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426112126: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426112126: search_key=防裂唇膏 is completed
+20180426104552version 20180426112126: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426112337: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426112337: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426112337: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426112337: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426112337: search_key=无色限唇膏 is completed
+20180426104552version 20180426112337: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426112337: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426112337: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426112337: search_key=防裂唇膏 is completed
+20180426104552version 20180426112337: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426112855: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426112855: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426112855: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426112855: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426112855: search_key=无色限唇膏 is completed
+20180426104552version 20180426112855: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426112855: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426112855: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426112855: search_key=防裂唇膏 is completed
+20180426104552version 20180426112855: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426113235: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426113235: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426113235: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426113235: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426113235: search_key=无色限唇膏 is completed
+20180426104552version 20180426113235: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426113235: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426113235: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426113235: search_key=防裂唇膏 is completed
+20180426104552version 20180426113235: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426113551: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426113551: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426113551: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426113551: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426113551: search_key=无色限唇膏 is completed
+20180426104552version 20180426113551: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426113551: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426113551: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426113551: search_key=防裂唇膏 is completed
+20180426104552version 20180426113551: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426114339: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426114339: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426114339: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426114339: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426114339: search_key=无色限唇膏 is completed
+20180426104552version 20180426114339: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426114339: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426114339: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426114339: search_key=防裂唇膏 is completed
+20180426104552version 20180426114339: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426115537: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426115537: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426115537: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426115537: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426115537: search_key=无色限唇膏 is completed
+20180426104552version 20180426115537: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426115537: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426115537: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426115537: search_key=防裂唇膏 is completed
+20180426104552version 20180426115537: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426115742: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426115742: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426115742: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426115742: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426115742: search_key=无色限唇膏 is completed
+20180426104552version 20180426115742: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426115742: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426115742: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426115742: search_key=防裂唇膏 is completed
+20180426104552version 20180426115742: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426115931: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426115931: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426115931: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426115931: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426115931: search_key=无色限唇膏 is completed
+20180426104552version 20180426115931: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426115931: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426115931: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426115931: search_key=防裂唇膏 is completed
+20180426104552version 20180426115931: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426123458: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426123458: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426123458: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426123458: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426123458: search_key=无色限唇膏 is completed
+20180426104552version 20180426123458: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426123458: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426123458: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426123458: search_key=防裂唇膏 is completed
+20180426104552version 20180426123458: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426123925: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426123925: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426123925: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426123925: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426123925: search_key=无色限唇膏 is completed
+20180426104552version 20180426123925: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426123925: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426123925: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426123925: search_key=防裂唇膏 is completed
+20180426104552version 20180426123925: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426124324: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426124324: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426124324: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426124324: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426124324: search_key=无色限唇膏 is completed
+20180426104552version 20180426124324: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426124324: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426124324: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426124324: search_key=防裂唇膏 is completed
+20180426104552version 20180426124324: search_key=防裂唇膏|||1255 is completed
+============================================================
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426124456: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426124456: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426124456: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426124456: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426124456: search_key=无色限唇膏 is completed
+20180426104552version 20180426124456: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426124456: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426124456: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426124456: search_key=防裂唇膏 is completed
+20180426104552version 20180426124456: search_key=防裂唇膏|||1255 is completed
+============================================================
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426124623: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426124623: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426124623: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426124623: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426124623: search_key=无色限唇膏 is completed
+20180426104552version 20180426124623: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426124623: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426124623: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426124623: search_key=防裂唇膏 is completed
+20180426104552version 20180426124623: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426124659: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426124659: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426124659: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426124659: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426124659: search_key=无色限唇膏 is completed
+20180426104552version 20180426124659: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426124659: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426124659: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426124659: search_key=防裂唇膏 is completed
+20180426104552version 20180426124659: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426125328: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426125328: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426125328: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426125328: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426125328: search_key=无色限唇膏 is completed
+20180426104552version 20180426125328: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426125328: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426125328: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426125328: search_key=防裂唇膏 is completed
+20180426104552version 20180426125328: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426125626: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426125626: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426125626: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426125626: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426125626: search_key=无色限唇膏 is completed
+20180426104552version 20180426125626: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426125626: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426125626: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426125626: search_key=防裂唇膏 is completed
+20180426104552version 20180426125626: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426125836: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426125836: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426125836: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426125836: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426125836: search_key=无色限唇膏 is completed
+20180426104552version 20180426125836: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426125836: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426125836: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426125836: search_key=防裂唇膏 is completed
+20180426104552version 20180426125836: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426130002: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426130002: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426130002: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426130002: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426130002: search_key=无色限唇膏 is completed
+20180426104552version 20180426130002: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426130002: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426130002: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426130002: search_key=防裂唇膏 is completed
+20180426104552version 20180426130002: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426130224: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426130224: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426130224: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426130224: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426130224: search_key=无色限唇膏 is completed
+20180426104552version 20180426130224: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426130224: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426130224: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426130224: search_key=防裂唇膏 is completed
+20180426104552version 20180426130224: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426130521: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426130521: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426130521: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426130521: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426130521: search_key=无色限唇膏 is completed
+20180426104552version 20180426130521: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426130521: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426130521: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426130521: search_key=防裂唇膏 is completed
+20180426104552version 20180426130521: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426132113: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426132113: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426132113: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426132113: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426132113: search_key=无色限唇膏 is completed
+20180426104552version 20180426132113: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426132113: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426132113: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426132113: search_key=防裂唇膏 is completed
+20180426104552version 20180426132113: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426132825: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426132825: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426132825: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426132825: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426132825: search_key=无色限唇膏 is completed
+20180426104552version 20180426132825: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426132825: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426132825: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426132825: search_key=防裂唇膏 is completed
+20180426104552version 20180426132825: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426133008: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426133008: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426133008: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426133008: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426133008: search_key=无色限唇膏 is completed
+20180426104552version 20180426133008: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426133008: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426133008: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426133008: search_key=防裂唇膏 is completed
+20180426104552version 20180426133008: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426133231: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426133231: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426133231: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426133231: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426133231: search_key=无色限唇膏 is completed
+20180426104552version 20180426133231: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426133231: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426133231: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426133231: search_key=防裂唇膏 is completed
+20180426104552version 20180426133231: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426104552无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426104552无色限唇膏mmb_db_operation.table_init
+20180426104552version 20180426133451: search_key=无色限唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426133451: search_key=无色限唇膏 page_num=1 insert success
+20180426104552version 20180426133451: search_key=无色限唇膏 page_num=2 insert success
+20180426104552version 20180426133451: search_key=无色限唇膏 page_num=3 insert success
+20180426104552无色限唇膏parse_search_key complete
+20180426104552version 20180426133451: search_key=无色限唇膏 is completed
+20180426104552version 20180426133451: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426104552防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426104552防裂唇膏mmb_db_operation.table_init
+20180426104552version 20180426133451: search_key=防裂唇膏 is processing
+20180426104552dynamic price_duan
+20180426104552version 20180426133451: search_key=防裂唇膏 page_num=1 insert success
+20180426104552防裂唇膏parse_search_key complete
+20180426104552version 20180426133451: search_key=防裂唇膏 is completed
+20180426104552version 20180426133451: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426133728无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426133728无色限唇膏mmb_db_operation.table_init
+20180426133728version 20180426133738: search_key=无色限唇膏 is processing
+20180426133728dynamic price_duan
+20180426133728version 20180426133738: search_key=无色限唇膏 page_num=1 insert success
+20180426133728version 20180426133738: search_key=无色限唇膏 page_num=2 insert success
+20180426133728version 20180426133738: search_key=无色限唇膏 page_num=3 insert success
+20180426133728无色限唇膏parse_search_key complete
+20180426133728version 20180426133738: search_key=无色限唇膏 is completed
+20180426133728version 20180426133738: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426133728防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426133728防裂唇膏mmb_db_operation.table_init
+20180426133728version 20180426133738: search_key=防裂唇膏 is processing
+20180426133728dynamic price_duan
+20180426133728version 20180426133738: search_key=防裂唇膏 page_num=1 insert success
+20180426133728防裂唇膏parse_search_key complete
+20180426133728version 20180426133738: search_key=防裂唇膏 is completed
+20180426133728version 20180426133738: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180426133728无色限唇膏|||1255mmb_db_operation.table_check_init
+20180426133728无色限唇膏mmb_db_operation.table_init
+20180426133728version 20180426134349: search_key=无色限唇膏 is processing
+20180426133728dynamic price_duan
+20180426133728version 20180426134349: search_key=无色限唇膏 page_num=1 insert success
+20180426133728version 20180426134349: search_key=无色限唇膏 page_num=2 insert success
+20180426133728version 20180426134349: search_key=无色限唇膏 page_num=3 insert success
+20180426133728无色限唇膏parse_search_key complete
+20180426133728version 20180426134349: search_key=无色限唇膏 is completed
+20180426133728version 20180426134349: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180426133728防裂唇膏|||1255mmb_db_operation.table_check_init
+20180426133728防裂唇膏mmb_db_operation.table_init
+20180426133728version 20180426134349: search_key=防裂唇膏 is processing
+20180426133728dynamic price_duan
+20180426133728version 20180426134349: search_key=防裂唇膏 page_num=1 insert success
+20180426133728防裂唇膏parse_search_key complete
+20180426133728version 20180426134349: search_key=防裂唇膏 is completed
+20180426133728version 20180426134349: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180428153208无色限唇膏|||1255mmb_db_operation.table_check_init
+20180428153208无色限唇膏mmb_db_operation.table_init
+20180428153208version 2018428154621: search_key=无色限唇膏 is processing
+20180428153208dynamic price_duan
+20180428153208version 2018428154621: search_key=无色限唇膏 page_num=1 insert success
+20180428153208version 2018428154621: search_key=无色限唇膏 page_num=2 insert success
+20180428153208version 2018428154621: search_key=无色限唇膏 page_num=3 insert success
+20180428153208无色限唇膏parse_search_key complete
+20180428153208version 2018428154621: search_key=无色限唇膏 is completed
+20180428153208version 2018428154621: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180428153208防裂唇膏|||1255mmb_db_operation.table_check_init
+20180428153208防裂唇膏mmb_db_operation.table_init
+20180428153208version 2018428154621: search_key=防裂唇膏 is processing
+20180428153208dynamic price_duan
+20180428153208version 2018428154621: search_key=防裂唇膏 page_num=1 insert success
+20180428153208防裂唇膏parse_search_key complete
+20180428153208version 2018428154621: search_key=防裂唇膏 is completed
+20180428153208version 2018428154621: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180428153208无色限唇膏|||1255mmb_db_operation.table_check_init
+20180428153208无色限唇膏mmb_db_operation.table_init
+20180428153208version 201842816137: search_key=无色限唇膏 is processing
+20180428153208dynamic price_duan
+20180428153208version 201842816137: search_key=无色限唇膏 page_num=1 insert success
+20180428153208version 201842816137: search_key=无色限唇膏 page_num=2 insert success
+20180428153208version 201842816137: search_key=无色限唇膏 page_num=3 insert success
+20180428153208无色限唇膏parse_search_key complete
+20180428153208version 201842816137: search_key=无色限唇膏 is completed
+20180428153208version 201842816137: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180428153208防裂唇膏|||1255mmb_db_operation.table_check_init
+20180428153208防裂唇膏mmb_db_operation.table_init
+20180428153208version 201842816137: search_key=防裂唇膏 is processing
+20180428153208dynamic price_duan
+20180428153208version 201842816137: search_key=防裂唇膏 page_num=1 insert success
+20180428153208防裂唇膏parse_search_key complete
+20180428153208version 201842816137: search_key=防裂唇膏 is completed
+20180428153208version 201842816137: search_key=防裂唇膏|||1255 is completed
+============================================================
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180428153208无色限唇膏|||1255mmb_db_operation.table_check_init
+20180428153208无色限唇膏mmb_db_operation.table_init
+20180428153208version 201842816152: search_key=无色限唇膏 is processing
+20180428153208dynamic price_duan
+20180428153208version 201842816152: search_key=无色限唇膏 page_num=1 insert success
+20180428153208version 201842816152: search_key=无色限唇膏 page_num=2 insert success
+20180428153208version 201842816152: search_key=无色限唇膏 page_num=3 insert success
+20180428153208无色限唇膏parse_search_key complete
+20180428153208version 201842816152: search_key=无色限唇膏 is completed
+20180428153208version 201842816152: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180428153208防裂唇膏|||1255mmb_db_operation.table_check_init
+20180428153208防裂唇膏mmb_db_operation.table_init
+20180428153208version 201842816152: search_key=防裂唇膏 is processing
+20180428153208dynamic price_duan
+20180428153208version 201842816152: search_key=防裂唇膏 page_num=1 insert success
+20180428153208防裂唇膏parse_search_key complete
+20180428153208version 201842816152: search_key=防裂唇膏 is completed
+20180428153208version 201842816152: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180428160925无色限唇膏|||1255mmb_db_operation.table_check_init
+20180428160925无色限唇膏mmb_db_operation.table_init
+20180428160925version 20180428160938: search_key=无色限唇膏 is processing
+20180428160925dynamic price_duan
+20180428160925version 20180428160938: search_key=无色限唇膏 page_num=1 insert success
+20180428160925version 20180428160938: search_key=无色限唇膏 page_num=2 insert success
+20180428160925version 20180428160938: search_key=无色限唇膏 page_num=3 insert success
+20180428160925无色限唇膏parse_search_key complete
+20180428160925version 20180428160938: search_key=无色限唇膏 is completed
+20180428160925version 20180428160938: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180428160925防裂唇膏|||1255mmb_db_operation.table_check_init
+20180428160925防裂唇膏mmb_db_operation.table_init
+20180428160925version 20180428160938: search_key=防裂唇膏 is processing
+20180428160925dynamic price_duan
+20180428160925version 20180428160938: search_key=防裂唇膏 page_num=1 insert success
+20180428160925防裂唇膏parse_search_key complete
+20180428160925version 20180428160938: search_key=防裂唇膏 is completed
+20180428160925version 20180428160938: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180428160925无色限唇膏|||1255mmb_db_operation.table_check_init
+20180428160925无色限唇膏mmb_db_operation.table_init
+20180428160925version 20180428161121: search_key=无色限唇膏 is processing
+20180428160925dynamic price_duan
+20180428160925version 20180428161121: search_key=无色限唇膏 page_num=1 insert success
+20180428160925version 20180428161121: search_key=无色限唇膏 page_num=2 insert success
+20180428160925version 20180428161121: search_key=无色限唇膏 page_num=3 insert success
+20180428160925无色限唇膏parse_search_key complete
+20180428160925version 20180428161121: search_key=无色限唇膏 is completed
+20180428160925version 20180428161121: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180428160925防裂唇膏|||1255mmb_db_operation.table_check_init
+20180428160925防裂唇膏mmb_db_operation.table_init
+20180428160925version 20180428161121: search_key=防裂唇膏 is processing
+20180428160925dynamic price_duan
+20180428160925version 20180428161121: search_key=防裂唇膏 page_num=1 insert success
+20180428160925防裂唇膏parse_search_key complete
+20180428160925version 20180428161121: search_key=防裂唇膏 is completed
+20180428160925version 20180428161121: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180428160925无色限唇膏|||1255mmb_db_operation.table_check_init
+20180428160925无色限唇膏mmb_db_operation.table_init
+20180428160925version 20180428161259: search_key=无色限唇膏 is processing
+20180428160925dynamic price_duan
+20180428160925version 20180428161259: search_key=无色限唇膏 page_num=1 insert success
+20180428160925version 20180428161259: search_key=无色限唇膏 page_num=2 insert success
+20180428160925version 20180428161259: search_key=无色限唇膏 page_num=3 insert success
+20180428160925无色限唇膏parse_search_key complete
+20180428160925version 20180428161259: search_key=无色限唇膏 is completed
+20180428160925version 20180428161259: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180428160925防裂唇膏|||1255mmb_db_operation.table_check_init
+20180428160925防裂唇膏mmb_db_operation.table_init
+20180428160925version 20180428161259: search_key=防裂唇膏 is processing
+20180428160925dynamic price_duan
+20180428160925version 20180428161259: search_key=防裂唇膏 page_num=1 insert success
+20180428160925防裂唇膏parse_search_key complete
+20180428160925version 20180428161259: search_key=防裂唇膏 is completed
+20180428160925version 20180428161259: search_key=防裂唇膏|||1255 is completed
+==============================50010808;唇膏/口红;无色限唇膏|||1255==============================
+20180428161946无色限唇膏|||1255mmb_db_operation.table_check_init
+20180428161946无色限唇膏mmb_db_operation.table_init
+20180428161946version 20180428161948: search_key=无色限唇膏 is processing
+20180428161946dynamic price_duan
+20180428161946version 20180428161948: search_key=无色限唇膏 page_num=1 insert success
+20180428161946version 20180428161948: search_key=无色限唇膏 page_num=2 insert success
+20180428161946version 20180428161948: search_key=无色限唇膏 page_num=3 insert success
+20180428161946无色限唇膏parse_search_key complete
+20180428161946version 20180428161948: search_key=无色限唇膏 is completed
+20180428161946version 20180428161948: search_key=无色限唇膏|||1255 is completed
+==============================50010808;唇膏/口红;防裂唇膏|||1255==============================
+20180428161946防裂唇膏|||1255mmb_db_operation.table_check_init
+20180428161946防裂唇膏mmb_db_operation.table_init
+20180428161946version 20180428161948: search_key=防裂唇膏 is processing
+20180428161946dynamic price_duan
+20180428161946version 20180428161948: search_key=防裂唇膏 page_num=1 insert success
+20180428161946防裂唇膏parse_search_key complete
+20180428161946version 20180428161948: search_key=防裂唇膏 is completed
+20180428161946version 20180428161948: search_key=防裂唇膏|||1255 is completed

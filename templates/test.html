@@ -1,0 +1,40 @@
+<html> <head>
+<script type="text/javascript">
+var socket = new WebSocket('ws://127.0.0.1:5788');
+
+socket.onopen = function(e)
+{
+    console.log('onopen : ' + e);
+        var element = document.getElementById("holder");
+        element.innerHTML +=  'onopen : '
+        element.innerHTML +=  e;
+        element.innerHTML +=  "<br>";
+}
+
+socket.onclose = function(e)
+{
+    console.log('onclose : ' + e + '; length : ' + arguments.length);
+        var element = document.getElementById("holder");
+        element.innerHTML +=  'close : '
+        element.innerHTML +=  e;
+        element.innerHTML +=  "<br>";
+}
+
+socket.onmessage = function(e)
+{
+    console.log('onmessage : ' + e + '; length : ' + arguments.length);
+    console.log('data : ' + e.data);
+    socket.send('chengang');
+        var element = document.getElementById("holder");
+        element.innerHTML +=  'onmessage : '
+        element.innerHTML +=  e
+        element.innerHTML +=  "<br>";
+        element.innerHTML +=  'data : '
+        element.innerHTML +=  e.data;
+        element.innerHTML +=  "<br>";
+}
+</script>
+</head> <body>
+<div id="holder" style="width:600px; height:300px"></div>
+
+ </body> </html>

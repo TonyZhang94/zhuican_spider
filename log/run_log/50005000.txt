@@ -1,0 +1,185 @@
+==============================50005000;美容喷雾器/蒸脸器/补水仪;蒸脸器|||0==============================
+20180421091153蒸脸器|||0mmb_db_operation.table_check_init
+20180421091153蒸脸器mmb_db_operation.table_init
+20180421091153version 20180421143120: search_key=蒸脸器 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=1 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=2 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=3 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=4 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=5 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=6 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=7 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=8 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=9 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=10 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=11 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=12 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=13 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=14 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=15 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=16 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=17 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=18 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=19 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=20 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=21 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=22 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=23 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=24 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=25 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=26 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=27 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=28 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=29 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=30 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=31 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=32 insert success
+20180421091153version 20180421143120: search_key=蒸脸器 page_num=33 insert success
+20180421091153蒸脸器parse_search_key complete
+20180421091153version 20180421143120: search_key=蒸脸器 is completed
+20180421091153version 20180421143120: search_key=蒸脸器|||0 is completed
+==============================50005000;美容喷雾器/蒸脸器/补水仪;补水仪|||0==============================
+20180421091153补水仪|||0mmb_db_operation.table_check_init
+20180421091153补水仪mmb_db_operation.table_init
+20180421091153version 20180421143120: search_key=补水仪 is processing
+20180421091153dynamic price_duan
+20180421091153version 20180421143120: search_key=补水仪 page_num=1 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=2 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=3 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=4 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=5 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=6 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=7 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=8 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=9 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=10 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=11 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=12 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=13 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=14 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=15 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=16 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=17 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=18 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=19 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=20 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=21 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=22 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=23 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=24 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=25 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=26 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=27 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=28 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=29 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=30 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=31 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=32 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=33 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=34 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=35 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=36 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=37 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=38 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=39 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=40 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=41 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=42 insert success
+20180421091153version 20180421143120: search_key=补水仪 page_num=43 insert success
+20180421091153补水仪parse_search_key complete
+20180421091153version 20180421143120: search_key=补水仪 is completed
+20180421091153version 20180421143120: search_key=补水仪|||0 is completed
+==============================50005000;美容喷雾器/蒸脸器/补水仪;蒸脸器|||0==============================
+20180421144914蒸脸器|||0mmb_db_operation.table_check_init
+20180421144914蒸脸器mmb_db_operation.table_init
+20180421144914version 20180421145848: search_key=蒸脸器 is processing
+20180421144914dynamic price_duan
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=1 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=2 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=3 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=4 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=5 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=6 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=7 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=8 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=9 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=10 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=11 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=12 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=13 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=14 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=15 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=16 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=17 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=18 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=19 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=20 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=21 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=22 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=23 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=24 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=25 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=26 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=27 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=28 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=29 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=30 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=31 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=32 insert success
+20180421144914version 20180421145848: search_key=蒸脸器 page_num=33 insert success
+20180421144914蒸脸器parse_search_key complete
+20180421144914version 20180421145848: search_key=蒸脸器 is completed
+20180421144914version 20180421145848: search_key=蒸脸器|||0 is completed
+==============================50005000;美容喷雾器/蒸脸器/补水仪;补水仪|||0==============================
+20180421144914补水仪|||0mmb_db_operation.table_check_init
+20180421144914补水仪mmb_db_operation.table_init
+20180421144914version 20180421145848: search_key=补水仪 is processing
+20180421144914dynamic price_duan
+20180421144914version 20180421145848: search_key=补水仪 page_num=1 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=2 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=3 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=4 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=5 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=6 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=7 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=8 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=9 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=10 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=11 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=12 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=13 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=14 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=15 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=16 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=17 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=18 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=19 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=20 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=21 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=22 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=23 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=24 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=25 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=26 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=27 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=28 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=29 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=30 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=31 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=32 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=33 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=34 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=35 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=36 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=37 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=38 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=39 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=40 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=41 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=42 insert success
+20180421144914version 20180421145848: search_key=补水仪 page_num=43 insert success
+20180421144914补水仪parse_search_key complete
+20180421144914version 20180421145848: search_key=补水仪 is completed
+20180421144914version 20180421145848: search_key=补水仪|||0 is completed
+==============================50005000;美容喷雾器/蒸脸器/补水仪;蒸脸器|||0==============================
